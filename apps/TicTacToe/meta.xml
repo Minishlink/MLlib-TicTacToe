@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>TicTacToe</name>
+  <coder>Minishlink</coder>
+  <version>1.0</version>
+  <short_description>A retro-style TicTacToe</short_description> 
+  <long_description>Just that simple ! This is a multiplayer game, with 1 or 2 Wiimotes. :)</long_description> 
+</app>
